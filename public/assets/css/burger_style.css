@@ -1,0 +1,54 @@
+body {
+    font-family: 'Anton', sans-serif;
+}
+
+.header {
+    background-color: #f2d027;
+    color: #d92b3a;
+    padding: 40px 40px 40px 50px;
+}
+
+img {
+    height: 336px;
+    float: right;
+}
+
+.burgerForm {
+    position: absolute;
+    bottom: 0px;
+    background-color: white;
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+textarea:focus, input:focus {
+    color: #777777;
+}
+
+input, select, textarea{
+    color: #777777;
+}
+
+.btn {
+    background-color: #d92b3a;
+    color: #f2d027;
+    margin-left: 10px;
+}
+
+.devourBtn {
+    background-color: #d92b3a;
+    color: #f2d027;
+    float: right;
+}
+
+.burgerStats {
+    margin-top: 40px;
+}
+
+.card {
+    font-size: 18px;
+    background-color: #f2d027;
+    color: #d92b3a;
+}
