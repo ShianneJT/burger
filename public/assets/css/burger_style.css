@@ -6,6 +6,7 @@ body {
     background-color: #f2d027;
     color: #d92b3a;
     padding: 40px 40px 40px 50px;
+    border-radius: 10px;
 }
 
 img {
